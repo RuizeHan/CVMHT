@@ -31,5 +31,6 @@ In horizontal-view videos, it is common to have subjects with mutual occlusion a
 
 
 Dataset: Link: https://pan.baidu.com/s/1VW9Ubr6AnBtn-F7U6THNzA Password: xnj9
+To get the annotation, please contact the authors. The dataset is only used for academic research.
 
 Code: Mainly by Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn).
