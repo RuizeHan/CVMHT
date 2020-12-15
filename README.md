@@ -31,7 +31,7 @@ Given a pair of temporally-aligned videos that are taken from the top view and h
 In horizontal-view videos, it is common to have subjects with mutual occlusion and being out-of-view. In this case, existing online trackers, e.g., DMAN can not associate the long-term lost subjects when they reappear in the view. Two examples are shown in above Figure. The top two rows show the case of mutual occlusions. From the top view at frame #180, we can find that two subjects (ID number 2, 3) are occluded by others and DMAN switches the ID of them when they reappear in the filed of view at frame #210. Our method keeps the original ID number. Similarly, we focus on the key subject (ID number 4) which goes out of view at frame #165 in the horizontal view. We can find that this subject is reassigned to a new ID number by DMAN. Our approach gets the original ID number of the target, which is consistent to its ID number in the top view.
 
 
-Dataset: Link: https://pan.baidu.com/s/1VW9Ubr6AnBtn-F7U6THNzA Password: xnj9.
+Dataset: Link: https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA Password: CVHT.
 
 To get the annotation, please contact the authors. The dataset is only used for academic research.
 
