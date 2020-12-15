@@ -1,5 +1,5 @@
 # CVMHT
-Dataset and Code of CVMHT (Complementary-View Multiple Human Tracking), accepted in AAAI 2020.
+Dataset and Code of CVMHT (Complementary-View Multiple Human Tracking), published in AAAI 2020.
 
 ```
 @inproceedings{han2020cvmht,
