@@ -11,7 +11,8 @@ Dataset and Code of CVMHT (Complementary-View Multiple Human Tracking), accepted
 ```
 ## Introduction
 
-![example](https://github.com/HanRuize/CVMHT/blob/master/figs/example.jpg)
+<div align=center><img src="https://github.com/HanRuize/CVMHT/blob/master/figs/example.jpg" width="1000" height="350" alt="example"/><br/>
+<div align= justify>
 
 While tracking has many applications, typically two pieces of information can be provided by tracking results: accurate trajectories and appearance of the targets over time. This clearly introduces a conflict – if the camera is too close to the targets, limited coverage and frequent mutual occlusions prevent the accurate detection of their trajectories; if the camera is too far away from the targets, it is difficult to capture the detailed appearance of targets that are important for many applications such as person identification, action recognition, etc. 
 
