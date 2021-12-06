@@ -1,3 +1,8 @@
+# News
+
+This work has been extended to IEEE TPAMI. The project Webpage is at https://github.com/RuizeHan/CVMHAT.
+
+
 # CVMHT
 Dataset and Code of CVMHT (Complementary-View Multiple Human Tracking), published in AAAI 2020.
 
