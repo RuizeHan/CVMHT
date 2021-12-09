@@ -38,6 +38,6 @@ In horizontal-view videos, it is common to have subjects with mutual occlusion a
 
 Dataset: Link: https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA Password: CVHT.
 
-To get the annotation, please contact the authors. The dataset is only used for academic research.
+To get the annotation, please see https://github.com/RuizeHan/CVMHAT. The dataset is only used for academic research.
 
 Code: Mainly by Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn).
